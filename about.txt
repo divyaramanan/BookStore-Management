@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>About Azteka</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="./bootstrap/css/overides.css"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="./bootstrap/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+
+
+<div class="container-fluid">
+     <?php include 'includes/header_select.inc.php';
+     ?>
+    <p id="abt">About Azteka</p>
+    <div class="jumbotron">
+        <img src="images/boo.jpg" alt="bookstore">
+    </div>
+    <div class="content-main">
+        <p> The Azteka Book Corporation is one of top ten bookstores in minnesota. 
+We also carry the latest bestsellers and new releases for adult and children in a wide variety of subjects. 
+You&#39;ll find a wonderfully stocked children&#39;s section filled with a wide variety of books from beloved classics to new favorites!
+Our children&#39;s department also has fun and educational games, puzzles, and activity kits.
+ </p>
+ 
+<p>
+We pride ourselves on exceptional customer service and are happy to help each customer find the perfect book or gift!
+If we don&#39;t stock the title you&#39;re looking for, we&#39;ll gladly special order for you.
+We place orders several times a week and there is no additional charge for titles shipped to the store!
+Thank you for supporting your local independent bookstore!</p>
+</div>
+    <div class="content-contact">
+        <p>
+        Visit Us at:<br/>
+        11256 Oakland Avenue<br/>
+        Minnesota 92627<br/><br/>
+        Speak to Us at:<br/>
+        690.890.8988<br/><br/>
+        Write to Us at:<br/>
+        customer_mailing@azteka.com
+        </p>
+    </div>
+</div>
+     <?php include 'includes/footer.inc.php';
+     ?>
+    </body>
+</html>
