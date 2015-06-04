@@ -1,3 +1,5 @@
+<!-- Author has the roles of Member + he can add new book or Edit/Delete his books  -->
+
 <?php include 'includes/sessioncookie.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
