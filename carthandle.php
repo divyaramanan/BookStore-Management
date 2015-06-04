@@ -1,3 +1,5 @@
+<!-- Operations like add an book into cart,delete a book from car, update quantity or return the cart count is handled -->
+
 <?php 
 
 if(isset($_COOKIE['AZTEKA'])){
