@@ -1,3 +1,5 @@
+<!-- When the user wants to change his information like User Name/Password/Security Question and Answer -->
+
 <?php include 'includes/sessioncookie.php'; ?>
 
 <?php
