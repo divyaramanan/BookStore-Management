@@ -1,3 +1,5 @@
+<!-- Best Seller Page with best sold books and a plot using jqPlot for displaying sale trend -->
+
 <?php
 if(!isset($_COOKIE['AZTEKA']))
 {
