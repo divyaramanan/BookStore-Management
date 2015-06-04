@@ -1,4 +1,4 @@
-<!-- Operations like add an book into cart,delete a book from car, update quantity or return the cart count is handled -->
+<!-- Operations like add an book into cart,delete a book from cart, update quantity or return the cart count is handled -->
 
 <?php 
 
