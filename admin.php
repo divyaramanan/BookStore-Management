@@ -1,3 +1,5 @@
+<!-- Admin of Bookstore can do all roles of Member+Publisher+Author and can promote Users under him from one level to another -->
+
 <?php include 'includes/sessioncookie.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
