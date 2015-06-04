@@ -1,3 +1,4 @@
+<!-- Author operations like adding books to database, editing/deleting the books the author has created are done in this PHP -->
 <?php include 'includes/sessioncookie.php'; ?>
 <?php 
    $servername = "localhost";
